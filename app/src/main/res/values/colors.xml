@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+        <color name="nav_color_selected">#FF6200EE</color> <!-- Tanlangan item rangi -->
+        <color name="nav_color_unselected">#FF6200EE</color> <!-- Tanlanmagan item rangi -->
+        <color name="nav_background_color">#FFFFFF</color> <!-- Orqa fon rangi -->
+
+
 </resources>

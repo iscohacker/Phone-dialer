@@ -24,4 +24,14 @@
         android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/delete"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/del"
+        android:layout_gravity="center"
+        android:layout_marginStart="140dp" />
+
+
 </androidx.cardview.widget.CardView>
